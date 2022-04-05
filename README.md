@@ -1,4 +1,4 @@
-# Geoscience_Experiments
+# Geoscience Experiments
 Collection of geophysics workflow for interpretation and computational geophysics
 
 ![alt text](https://github.com/azharharisandi14/Geoscience_Experiments/blob/master/thumbnails.png?raw=true)
